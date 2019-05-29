@@ -1,27 +1,29 @@
 {
 	"$schema": "../schema.json",
-
 	"_meta": {
-		"sources": [{
-			"json": "TRoP",
-			"full": "The Races of Prosperia",
-			"abbreviation": "TRoP",
-			"authors": [
-				"Freyjadour Suitoden"
-			],
-			"url": "https://homebrewery.naturalcrit.com/share/H1qr1Vbb4",
-			"version": "0.1"
-		}],
+		"sources": [
+			{
+				"json": "TRoP:NG",
+				"full": "Nation Grande",
+				"abbreviation": "TRoP",
+				"authors": [
+					"Freyjadour Suitoden"
+				],
+				"version": "0.1"
+				"url": "https://homebrewery.naturalcrit.com/share/H1qr1Vbb4"
+			}
+		],
 		"dateAdded": 1545342498
 	},
 	"race": [
 		{
 			"name": "Grandian",
-			"page": "2",
+			"source": "TRoP:NG",
 			"ability": {
 				"str": 2,
 				"con": 1
 			},
+			"darkvision": 60,
 			"size": "M",
 			"speed": {
 				"walk": 30
