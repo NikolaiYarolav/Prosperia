@@ -20,7 +20,7 @@
 			"name": "Novan",
 			"source": "",
 			"ability": {
-				"str": 2,
+				"str": "2",
 				"con": 1
 			},
 			"size": "M",
