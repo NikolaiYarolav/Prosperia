@@ -15,7 +15,8 @@
 		"dateAdded": 1545342498
 	},
 
-	"race": [{
+	"race": [
+		{
 			"name": "Grandian",
 			"page": "2",
 			"ability": {
@@ -84,7 +85,6 @@
 				}
 			]
 		},
-
 		{
 			"name": "Novan",
 			"page": "8",
