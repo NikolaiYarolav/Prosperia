@@ -1,0 +1,93 @@
+{
+	"$schema": "../schema.json",
+	"_meta": {
+		"sources": [
+				{
+			"json": "TRoP:NG",
+			"full": "Nation Grande",
+			"abbreviation": "TRoP",
+			"authors": [
+				"Freyjadour Suitoden"
+			],
+			"url": "https://homebrewery.naturalcrit.com/share/H1qr1Vbb4",
+			"version": "0.1"
+			}
+		],
+		"dateAdded": 1545342498
+	},
+	"race": [
+			{
+			"name": "Grandian",
+			"source": "",
+			"ability": {
+				"str": 2,
+				"con": 1
+			},
+			"size": "M",
+			"speed": {
+				"walk": 30
+			},
+			"traitTags": [
+				"Natural Armor",
+				"Damage Resistance"
+			],
+			"languageTags": [
+				"Grandian",
+				"Common",
+				"National Linguist"
+			],
+			"entries": [
+				"Grandians possess the following racial traits:",
+				{
+					"name": "Age",
+					"entries": [
+						"The angels of Grandia can maintain their human forms for hundreds of years. They are known to last to a little over 1000 years"
+					]
+				},
+				{
+					"name": "Alignment",
+					"entries": [
+						"Novans typically find themselves predisposed toward chaotic alignments."
+					]
+				},
+				{
+					"name": "Size",
+					"entries": [
+						"Grandians appear just as their human allies. Your size is Medium."
+					]
+				},
+				{
+					"name": "Darkvision",
+					"entries": [
+						"Blessed with a radiant soul, your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+					]
+				},
+				{
+					"name": "Celestial Resistance",
+					"entries": [
+						"You gain resistance to necrotic and radiant damage."
+					]
+				},
+				{
+					"name": "Divine Legacy",
+					"entries": [
+						"You know the light cantrip. Once you reach 3rd level, you can cast the lesser restoration spell once with this trait, and you regain the ability to do so when you finish a long rest. Once you reach 5th level, you can cast the daylight spell once with this trait as a 3rd-level spell, and you regain the ability to do so when you finish a long rest.",
+						"Charisma is your spellcasting ability for these spells."
+					]
+				},
+				{
+					"name": "Nation Diplomat",
+					"entries": [
+						"You have advantage on all Charisma (Persuasion) checks and all Intelligence (History) checks regarding the Nation Grande."
+					]
+				},
+				{
+					"name": "Natural Linguist",
+					"entries": [
+						"You can speak, read and write the Common languages of each nation that belongs to the Nation Grande."
+					]
+				}
+			]
+		}
+	]
+}
