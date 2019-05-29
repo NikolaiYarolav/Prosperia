@@ -26,6 +26,10 @@
 			"speed": {
 				"walk": 30
 			},
+			"traitTags": [
+				"Natural Armor",
+				"Damage Resistance"
+			],
 			"languageTags": [
 				"Grandian",
 				"Common",
