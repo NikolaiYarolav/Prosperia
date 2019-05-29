@@ -3,7 +3,7 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "TRoP_NV",
+				"json": "TRoP:NV",
 				"full": "Novan",
 				"abbreviation": "TRoP",
 				"authors": [
@@ -18,7 +18,7 @@
 	"race": [
 		{
 			"name": "Novan",
-			"source": "TRoP_NV",
+			"source": "TRoP:NV",
 			"ability": {
 				"str": 2,
 				"con": 1
