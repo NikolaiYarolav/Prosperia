@@ -87,6 +87,26 @@
 						"You can speak, read and write the Common languages of each nation that belongs to the Nation Grande."
 					]
 				}
+				{
+					"name": "Protector",
+					"entries": [
+						"At 3rd level, you may cast a heavenly aura around your allies. As long as you do not spend your action to attack, any ally within 5 feet of you attacks with advantage until the end of your next turn. Creatures that attack targets other than you do so at disadvantage." 
+						"Your number of uses is dependent on your Constitution modifier, after which must be recovered by a long rest."
+					]
+				}
+				{
+					"name": "Heavenly Strike",
+					"entries": [
+						"At 7th level, you can strike the ground around you with an angelic light as an action, causing a wave of energy to wash over your enemies. All enemies within 15 feet of you must make a Dexterity saving throw (DC 10). On a failed save, the target takes (2d6) radiant damage and is stunned and knocked prone. On a successful save, the target takes (1d4) radiant damage." 
+						"Your number of uses is dependent on your Constitution modifier, after which must be recovered by a long rest."
+					]
+				}
+				{
+					"name": "Angel Wings",
+					"entries": [
+						"At 14th level, you gain the ability to sprout a pair of feathered angel wings from your back, gaining a flying speed equal to your current speed. You can create these wings as a bonus action on your turn. They last until you dismiss them as a bonus action on your turn. You can’t manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them." 
+					]
+				}
 			]
 		}
 	]
