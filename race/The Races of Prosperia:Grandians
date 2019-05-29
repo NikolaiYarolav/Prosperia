@@ -1,8 +1,7 @@
 {
 	"$schema": "../schema.json",
 	"_meta": {
-		"sources": [
-				{
+		"sources": [{
 			"json": "TRoP:NG",
 			"full": "Nation Grande",
 			"abbreviation": "TRoP",
@@ -11,103 +10,100 @@
 			],
 			"url": "https://homebrewery.naturalcrit.com/share/H1qr1Vbb4",
 			"version": "0.1"
-			}
-		],
+		}],
 		"dateAdded": 1545342498
 	},
-	"race": [
+	"race": [{
+		"name": "Grandian",
+		"source": "",
+		"ability": {
+			"str": 2,
+			"con": 1
+		},
+		"size": "M",
+		"speed": {
+			"walk": 30
+		},
+		"traitTags": [
+			"Natural Armor",
+			"Damage Resistance"
+		],
+		"languageTags": [
+			"Grandian",
+			"Common",
+			"National Linguist"
+		],
+		"entries": [
+			"Grandians possess the following racial traits:",
 			{
-			"name": "Grandian",
-			"source": "",
-			"ability": {
-				"str": 2,
-				"con": 1
+				"name": "Age",
+				"entries": [
+					"The angels of Grandia can maintain their human forms for hundreds of years. They are known to last to a little over 1000 years"
+				]
 			},
-			"size": "M",
-			"speed": {
-				"walk": 30
+			{
+				"name": "Alignment",
+				"entries": [
+					"Novans typically find themselves predisposed toward chaotic alignments."
+				]
 			},
-			"traitTags": [
-				"Natural Armor",
-				"Damage Resistance"
-			],
-			"languageTags": [
-				"Grandian",
-				"Common",
-				"National Linguist"
-			],
-			"entries": [
-				"Grandians possess the following racial traits:",
-				{
-					"name": "Age",
-					"entries": [
-						"The angels of Grandia can maintain their human forms for hundreds of years. They are known to last to a little over 1000 years"
-					]
-				},
-				{
-					"name": "Alignment",
-					"entries": [
-						"Novans typically find themselves predisposed toward chaotic alignments."
-					]
-				},
-				{
-					"name": "Size",
-					"entries": [
-						"Grandians appear just as their human allies. Your size is Medium."
-					]
-				},
-				{
-					"name": "Darkvision",
-					"entries": [
-						"Blessed with a radiant soul, your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
-					]
-				},
-				{
-					"name": "Celestial Resistance",
-					"entries": [
-						"You gain resistance to necrotic and radiant damage."
-					]
-				},
-				{
-					"name": "Divine Legacy",
-					"entries": [
-						"You know the light cantrip. Once you reach 3rd level, you can cast the lesser restoration spell once with this trait, and you regain the ability to do so when you finish a long rest. Once you reach 5th level, you can cast the daylight spell once with this trait as a 3rd-level spell, and you regain the ability to do so when you finish a long rest.",
-						"Charisma is your spellcasting ability for these spells."
-					]
-				},
-				{
-					"name": "Nation Diplomat",
-					"entries": [
-						"You have advantage on all Charisma (Persuasion) checks and all Intelligence (History) checks regarding the Nation Grande."
-					]
-				},
-				{
-					"name": "Natural Linguist",
-					"entries": [
-						"You can speak, read and write the Common languages of each nation that belongs to the Nation Grande."
-					]
-				}
-				{
-					"name": "Protector",
-					"entries": [
-						"At 3rd level, you may cast a heavenly aura around your allies. As long as you do not spend your action to attack, any ally within 5 feet of you attacks with advantage until the end of your next turn. Creatures that attack targets other than you do so at disadvantage." 
-						"Your number of uses is dependent on your Constitution modifier, after which must be recovered by a long rest."
-					]
-				}
-				{
-					"name": "Heavenly Strike",
-					"entries": [
-						"At 7th level, you can strike the ground around you with an angelic light as an action, causing a wave of energy to wash over your enemies. All enemies within 15 feet of you must make a Dexterity saving throw (DC 10). On a failed save, the target takes (2d6) radiant damage and is stunned and knocked prone. On a successful save, the target takes (1d4) radiant damage." 
-						"Your number of uses is dependent on your Constitution modifier, after which must be recovered by a long rest."
-					]
-				}
-				{
-					"name": "Angel Wings",
-					"entries": [
-						"At 14th level, you gain the ability to sprout a pair of feathered angel wings from your back, gaining a flying speed equal to your current speed. You can create these wings as a bonus action on your turn. They last until you dismiss them as a bonus action on your turn. You can’t manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them." 
-					]
-				}
-			]
-		}
-	]
+			{
+				"name": "Size",
+				"entries": [
+					"Grandians appear just as their human allies. Your size is Medium."
+				]
+			},
+			{
+				"name": "Darkvision",
+				"entries": [
+					"Blessed with a radiant soul, your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+				]
+			},
+			{
+				"name": "Celestial Resistance",
+				"entries": [
+					"You gain resistance to necrotic and radiant damage."
+				]
+			},
+			{
+				"name": "Divine Legacy",
+				"entries": [
+					"You know the light cantrip. Once you reach 3rd level, you can cast the lesser restoration spell once with this trait, and you regain the ability to do so when you finish a long rest. Once you reach 5th level, you can cast the daylight spell once with this trait as a 3rd-level spell, and you regain the ability to do so when you finish a long rest.",
+					"Charisma is your spellcasting ability for these spells."
+				]
+			},
+			{
+				"name": "Nation Diplomat",
+				"entries": [
+					"You have advantage on all Charisma (Persuasion) checks and all Intelligence (History) checks regarding the Nation Grande."
+				]
+			},
+			{
+				"name": "Natural Linguist",
+				"entries": [
+					"You can speak, read and write the Common languages of each nation that belongs to the Nation Grande."
+				]
+			},
+			{
+				"name": "Protector",
+				"entries": [
+					"At 3rd level, you may cast a heavenly aura around your allies. As long as you do not spend your action to attack, any ally within 5 feet of you attacks with advantage until the end of your next turn. Creatures that attack targets other than you do so at disadvantage.",
+					"Your number of uses is dependent on your Constitution modifier, after which must be recovered by a long rest."
+				]
+			},
+			{
+				"name": "Heavenly Strike",
+				"entries": [
+					"At 7th level, you can strike the ground around you with an angelic light as an action, causing a wave of energy to wash over your enemies. All enemies within 15 feet of you must make a Dexterity saving throw (DC 10). On a failed save, the target takes (2d6) radiant damage and is stunned and knocked prone. On a successful save, the target takes (1d4) radiant damage.",
+					"Your number of uses is dependent on your Constitution modifier, after which must be recovered by a long rest."
+				]
+			},
+			{
+				"name": "Angel Wings",
+				"entries": [
+					"At 14th level, you gain the ability to sprout a pair of feathered angel wings from your back, gaining a flying speed equal to your current speed. You can create these wings as a bonus action on your turn. They last until you dismiss them as a bonus action on your turn. You can’t manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them."
+				]
+			}
+		]
+	}]
 }
