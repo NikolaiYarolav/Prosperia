@@ -104,21 +104,21 @@
 			{
 				"name": "Frozen Facade",
 				"entries": [
-					"Starting at 3rd level, when an enemy hits you with an attack, you may use your reaction to teleport to a space within 5 feet of you. A clone of ice forms in your square when you move, taking the attack instead.",
+					"At 3rd level, when an enemy hits you with an attack, you may use your reaction to teleport to a space within 5 feet of you. A clone of ice forms in your square when you move, taking the attack instead.",
 					"You may use this ability a number of times equal to your Constitution modifier. You recover all uses of this ability upon completion of a Short or Long rest."
 				]
 			},
 			{
 				"name": "Cascade",
 				"entries": [
-					"Starting at 7th level, with but a flick of the wrist, the inhabitants of Celevhar cause the ground to shake and rumble. A field of ice forms before them and comes to life with waves of ice crashing against the enemies. As an action, you summon a patch of ice in front of you and launch waves of ice in a 30 foot cone. Each creature in a 30-foot cone must make a Constitution saving throw (DC 15). A creature takes 2d8 cold damage on a failed save and are considered restrained as the ice and cold begins to freeze over them. On a successful save, the creature takes half damage. If frozen, the creature must make a Strength saving throw (DC 14) to break out of the ice or take 1d4 cold damage until they make the save.",
+					"At 7th level, with but a flick of the wrist, the inhabitants of Celevhar cause the ground to shake and rumble. A field of ice forms before them and comes to life with waves of ice crashing against the enemies. As an action, you summon a patch of ice in front of you and launch waves of ice in a 30 foot cone. Each creature in a 30-foot cone must make a Constitution saving throw (DC 15). A creature takes 2d8 cold damage on a failed save and are considered restrained as the ice and cold begins to freeze over them. On a successful save, the creature takes half damage. If frozen, the creature must make a Strength saving throw (DC 14) to break out of the ice or take 1d4 cold damage until they make the save.",
 					"You may use this ability a number of times equal to your Constitution modifier. You recover all uses of this ability upon completion of a Long rest."
 				]
 			},
 			{
 				"name": "Winter Sentinal",
 				"entries": [
-					"Most Celevharans speak of the Endless Winter that will rage across the world, when only the toughest will survive. Treated as a myth, some Celevharans have decided to show the world what the Endless Winter will look like. Starting at 14th level, you may become immobile as your body begins to glow a brilliant blue and freeze over until encased in ice. Magical gale forces kick up around you and shards of ice start to chip away from you. As an action, you may summon a magical blizzard for one minute. During this time you are encased in a block of ice. You are considered incapacitated while in the ice block. The ice block has resistance to all damage, except fire. The ice block has a number of hit points equal to 5x character level. When the ice block breaks or you take an action to stop the blizzard, this feature ends. The blizzard covers a 20 foot radius. Any enemy that steps into the radius takes 2d8 force damage and 2d6 cold damage. Enemies that start their turn in the blizzard take an additional 2d6 cold damage. The area of effect is considered difficult terrain.",
+					"Most Celevharans speak of the Endless Winter that will rage across the world, when only the toughest will survive. Treated as a myth, some Celevharans have decided to show the world what the Endless Winter will look like. At 14th level, you may become immobile as your body begins to glow a brilliant blue and freeze over until encased in ice. Magical gale forces kick up around you and shards of ice start to chip away from you. As an action, you may summon a magical blizzard for one minute. During this time you are encased in a block of ice. You are considered incapacitated while in the ice block. The ice block has resistance to all damage, except fire. The ice block has a number of hit points equal to 5x character level. When the ice block breaks or you take an action to stop the blizzard, this feature ends. The blizzard covers a 20 foot radius. Any enemy that steps into the radius takes 2d8 force damage and 2d6 cold damage. Enemies that start their turn in the blizzard take an additional 2d6 cold damage. The area of effect is considered difficult terrain.",
 					"You may use this ability once per long rest."
 				]
 			}
