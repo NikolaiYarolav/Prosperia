@@ -38,38 +38,37 @@
 			{
 				"name": "Age",
 				"entries": [
-					""
+					"Tyralians reach adulthood in their late teens and live less than a century."
 				]
 			},
 			{
 				"name": "Alignment",
 				"entries": [
-					""
+					"Tyralians tend toward no particular alignment. The best and the worst are found among them."
 				]
 			},
 			{
 				"name": "Size",
 				"entries": [
-					""
+					"Tyralians vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium."
 				]
 			},
 			{
-				"name": "Darkvision",
+				"name": "Synchronized",
 				"entries": [
-					""
+					"You are always aware of the flow of time. You can not be affected by time-altering spells."
 				]
 			},
 			{
-				"name": "Celestial Resistance",
+				"name": "Resistance Training",
 				"entries": [
-					""
+					"You gain resistance to poison."
 				]
 			},
 			{
-				"name": "Divine Legacy",
+				"name": "Language",
 				"entries": [
-					"",
-					"Charisma is your spellcasting ability for these spells."
+					"You can speak, read and write Common and Tyralian."
 				]
 			},
 			{
@@ -88,8 +87,8 @@
 			{
 				"name": "Gift of Sairn",
 				"entries": [
-					"At 14th level, you can temporarily take yourself out of the flow of time, leaving a shimmering afterimage behind. You can spend your action to step out of time and take a long rest. At the start of your next turn you return fully recovered.",
-          "This ability may only be used once per day."
+					"At 14th level, you can temporarily take yourself out of the flow of time, leaving a shimmering afterimage behind. You can spend your action to step out of time and take a long rest. At the end of your next turn you return fully recovered.",
+          				"This ability may only be used once per day."
 				]
 			}
 		]
