@@ -1,0 +1,97 @@
+
+{
+	"$schema": "../schema.json",
+	"_meta": {
+		"sources": [{
+			"json": "TRoP:NG",
+			"full": "Nation Grande",
+			"abbreviation": "TRoP",
+			"authors": [
+				"Freyjadour Suitoden"
+			],
+			"url": "https://homebrewery.naturalcrit.com/share/H1qr1Vbb4",
+			"version": "0.1"
+		}],
+		"dateAdded": 1545342498
+	},
+	"race": [{
+		"name": "Tyralian",
+		"source": "",
+		"ability": {
+			"dex": 2,
+			"con": 1
+		},
+		"size": "M",
+		"speed": {
+			"walk": 30
+		},
+		"traitTags": [
+			"Natural Armor",
+			"Damage Resistance"
+		],
+		"languageTags": [
+			"Tyralian",
+			"Common"
+		],
+		"entries": [
+			"Tyralians possess the following racial traits:",
+			{
+				"name": "Age",
+				"entries": [
+					""
+				]
+			},
+			{
+				"name": "Alignment",
+				"entries": [
+					""
+				]
+			},
+			{
+				"name": "Size",
+				"entries": [
+					""
+				]
+			},
+			{
+				"name": "Darkvision",
+				"entries": [
+					""
+				]
+			},
+			{
+				"name": "Celestial Resistance",
+				"entries": [
+					""
+				]
+			},
+			{
+				"name": "Divine Legacy",
+				"entries": [
+					"",
+					"Charisma is your spellcasting ability for these spells."
+				]
+			},
+			{
+				"name": "Shift",
+				"entries": [
+					"At 3rd level, Tyralians are granted preternatural reaction speed by the God of Time. At the start of combat you may spend your reaction to take first place in turn order until the end of combat.",
+					"Your number of uses is dependent on your Dexterity modifier, after which must be recovered by a long rest."
+				]
+			},
+			{
+				"name": "Swift Step",
+				"entries": [
+					"At 7th level, Tyralians preternatural speed starts to become natural. Your mastery of the Tyralian way is apparent. Your base walking speed becomes 35 feet and you ignore non-magical, difficult terrain and magical difficult terrain caused by allied spells. "
+				]
+			},
+			{
+				"name": "Gift of Sairn",
+				"entries": [
+					"At 14th level, you can temporarily take yourself out of the flow of time, leaving a shimmering afterimage behind. You can spend your action to step out of time and take a long rest. At the start of your next turn you return fully recovered.",
+          "This ability may only be used once per day."
+				]
+			}
+		]
+	}]
+}
