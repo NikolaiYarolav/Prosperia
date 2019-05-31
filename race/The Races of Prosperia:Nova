@@ -68,6 +68,12 @@
 					]
 				},
 				{
+					"name": "Mask of the Wild",
+					"entries": [
+						"You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+					]
+				},
+				{
 					"name": "Natural Craftsman",
 					"entries": [
 						"You gain proficiency with the artisan’s tools of your choice: smith’s tools, woodcarver’s tools, or mason’s tools."
@@ -95,6 +101,25 @@
 					"name": "Languages",
 					"entries": [
 						"You can speak, read, and write Common and Novan. Novan is a at once a harsh, yet flowing language with many non-speakers mistaking the language for simple growls. Novan is based heavily on the Runic Script."
+					]
+				},
+				{
+					"name": "Silvered Fangs",
+					"entries": [
+						"At 3rd level, your canines elongate and become sharpened, which you can use to make unarmed strikes. You gain a bite attack as a bonus action and your fangs are considered silvered weapons. On a hit, you deal piercing damage equal to 2d8 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+					]
+				},
+				{
+					"name": "Winter's Call",
+					"entries": [
+						"At 7th level, you may let out a mighty howl as a bonus action. The howl allows you and your allies to strike at advantage until the end of your next turn. Also, any enemy targeting you attacks at disadvantage until the end of your next turn.",
+						"You can use this feature once per long rest."
+					]
+				},
+				{
+					"name": "Master of the Wild",
+					"entries": [
+						"At 14th level, as long as you may fit through the space, you may ignore all magical and non-magical difficult terrain and you increase your speed by 15 when on snow and/or ice. You are also adept at evading creatures. While using the Hide action, you are invisible to any creature that relies on sight to see you."
 					]
 				}
 			]
