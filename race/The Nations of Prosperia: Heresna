@@ -1,0 +1,118 @@
+{
+	"$schema": "../schema.json",
+	"_meta": {
+		"sources": [
+				{
+			"json": "TRoP:NG",
+			"full": "Nation Grande",
+			"abbreviation": "TRoP",
+			"authors": [
+				"Freyjadour Suitoden"
+			],
+			"url": "https://homebrewery.naturalcrit.com/share/H1qr1Vbb4",
+			"version": "0.1"
+			}
+		],
+		"dateAdded": 1545342498
+	},
+	"race": [
+			{
+			"name": "Heresnian",
+			"source": "",
+			"ability": {
+				"int": 2,
+				"wis": 1
+			},
+			"size": "M",
+			"speed": {
+				"walk": 30
+			},
+			"traitTags": [
+				"Natural Armor",
+				"Damage Resistance"
+			],
+			"languageTags": [
+				"Heresnian",
+				"Common"
+			],
+			"entries": [
+				"Novans possess the following racial traits:",
+				{
+					"name": "Age",
+					"entries": [
+						"Heresnians are sustained in human-like shells magically created for them. The bodies reach adulthood in their late teens, but their shell functions for 1000 years before becoming insufficient in holding their spiritual form."
+					]
+				},
+				{
+					"name": "Alignment",
+					"entries": [
+						"Heresnians tend toward no particular alignment. The best and the worst are found among them."
+					]
+				},
+				{
+					"name": "Size",
+					"entries": [
+						"Heresnians vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium."
+					]
+				},
+				{
+					"name": "Darkvision",
+					"entries": [
+						"Born from the eternal night of the Heresnian swamps, you have superior vision in the dark. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of grey."
+					]
+				},
+				{
+					"name": "Magical Existence",
+					"entries": [
+						"You have proficiency in the Arcana skill."
+					]
+				},
+				{
+					"name": "Necrotic Absorbtion",
+					"entries": [
+						"Whenever you are subjected to necrotic damage, you take no damage and regain a number of hit points equal to the necrotic damage dealt."
+					]
+				},
+				{
+					"name": "Undead Nature",
+					"entries": [
+						"You do not require air, food, drink, or sleep and are considered an Undead creature. As such, you are immune to poison damage and the poisoned condition and spells that do not affect undead or contructs, similarly, do not affect you."
+					]
+				},
+				{
+					"name": "Heresnian Fortitude",
+					"entries": [
+						"If damage reduces you to 0 hit points, you must make a Constitution saving throw (DC 20), unless the damage is radiant or from a critical hit. On a success, you drop to 1 hit point instead."
+					]
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"You can speak, read, and write Common and Heresnian."
+					]
+				},
+				{
+					"name": "Deathly Visage",
+					"entries": [
+						"At 3rd level, you may attempt to frighten one opponent with a deathly aura as a bonus action. The target character must make a Wisdom saving throw (8 + your proficiency bonus + your Charisma modifier). On a failed save, the creature must take the Dash action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesn’t have line of sight to you, the creature can make a Wisdom saving throw. On a successful save, the spell ends for that creature. On a successful save, the affected creature’s speed is halved for 1 minute or until they take any damage. Your number of uses is dependent on your Charisma modifier, after which must be recovered by a short or long rest."
+					]
+				},
+				{
+					"name": "Sheild of Dyeiynn",
+					"entries": [
+						"At 7th level, you have earned the ability to call upon the favor of your nation’s patron for aid. As an action you may ask for Dyeiynn’s aid, which grants you resistance to bashing, piercing, slashing and radiant damage for 1 minute. You also gain Truesight, up to 60 feet.",
+						"Your number of uses is dependent on your Charisma modifier, after which must be recovered by a short or long rest.",
+            "As a permanent feature, you gain Turn Immunity, making you immune to effects that turn undead.
+					]
+				},
+				{
+					"name": "Spirit Release",
+					"entries": [
+						"At 14th level, you may leave your body behind as but a incoporeal shadow and you project your spirit outward. You take on the appearance of your Shadowfell form and gain the incorporeal trait. In this form you gain resistance to all forms of damage but gain vulnerability to psychic and radiant damage. You also benefit from an aura of fear similar to Deathly Visage. Any enemy caught within 30 feet of you must make a Wisdom saving throw (8 + your proficiency bonus + your Charisma modifier). On a failed save, the creature must take the Dash action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesn’t have line of sight to you, the creature can make a Wisdom saving throw. On a successful save, the spell ends for that creature. On a successful save, the affected creature’s speed is halved for 1 minute or until they take any damage. You return to your body if you take enough damage to fall unconscious. When you return to your body you recover all hit points lost by your spirit form.", 
+            "You may use this feature once a day and it must be recovered by a long rest."
+					]
+				}
+			]
+		}
+	]
+}
