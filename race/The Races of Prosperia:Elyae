@@ -1,8 +1,7 @@
 {
 	"$schema": "../schema.json",
 	"_meta": {
-		"sources": [
-				{
+		"sources": [{
 			"json": "TRoP:NG",
 			"full": "Nation Grande",
 			"abbreviation": "TRoP",
@@ -11,106 +10,103 @@
 			],
 			"url": "https://homebrewery.naturalcrit.com/share/H1qr1Vbb4",
 			"version": "0.1"
-			}
-		],
+		}],
 		"dateAdded": 1545342498
 	},
-	"race": [
+	"race": [{
+		"name": "Elyan",
+		"source": "",
+		"ability": {
+			"int": 2,
+			"cha": 1
+		},
+		"size": "M",
+		"speed": {
+			"walk": 30
+		},
+		"traitTags": [
+			"Natural Armor",
+			"Damage Resistance"
+		],
+		"languageTags": [
+			"Novan",
+			"Common"
+		],
+		"entries": [
+			"Elyans possess the following racial traits:",
 			{
-			"name": "Elyan",
-			"source": "",
-			"ability": {
-				"int": 2,
-				"cha": 1
+				"name": "Age",
+				"entries": [
+					"By the grace of their god and like other beast races of Prosperia, Elyans tend to have rather long lifespans. Elyans live to be around 800 years old."
+				]
 			},
-			"size": "M",
-			"speed": {
-				"walk": 30
+			{
+				"name": "Alignment",
+				"entries": [
+					"Novans might not have an innate tendency toward evil, but a few of them end up there. Evil or not, an strict nature inclines many Elyans toward a lawful alignment."
+				]
 			},
-			"traitTags": [
-				"Natural Armor",
-				"Damage Resistance"
-			],
-			"languageTags": [
-				"Novan",
-				"Common"
-			],
-			"entries": [
-				"Elyans possess the following racial traits:",
-				{
-					"name": "Age",
-					"entries": [
-						"By the grace of their god and like other beast races of Prosperia, Elyans tend to have rather long lifespans. Elyans live to be around 800 years old."
-					]
-				},
-				{
-					"name": "Alignment",
-					"entries": [
-						"Novans might not have an innate tendency toward evil, but a few of them end up there. Evil or not, an strict nature inclines many Elyans toward a lawful alignment."
-					]
-				},
-				{
-					"name": "Size",
-					"entries": [
-						"While naturally stronger than the human races there are no discernable differences in height. Your size is Medium."
-					]
-				},
-				{
-					"name": "Darkvision",
-					"entries": [
-						"You have superior vision in the dark. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of grey."
-					]
-				}
-                                {
-					"name": "Intimidating Presence",
-					"entries": [
-						"You have proficiency in the Intimidation skill."
-					]
-				},
-				{
-					"name": "Keen Senses",
-					"entries": [
-						"You have proficiency in the Perception skill."
-					]
-				},
-				{
-					"name": "Natural Diplomat",
-					"entries": [
-						"You have advantage on all Charisma (Persuasion) checks."
-					]
-				},
-				{
-					"name": "Northern Resilience",
-					"entries": [
-						"You gain resistance to cold damage"
-					]
-				},
-				{
-					"name": "Languages",
-					"entries": [
-						"You can speak, read, and write Common and Elyan."
-					]
-				},
-				{
-					"name": "Piercing Screech",
-					"entries": [
-						"At 3rd level, you may attempt to stun your opponent with a voice attack as a bonus action. The target must make a Constitution save against your Spell Save DC and must be within a range of 30 feet.",
-                                                "Your number of uses is dependent on your constitution modifier, after which must be recovered by a short or long rest."
-					]
-				},
-				{
-					"name": "Echolocation",
-					"entries": [
-						"At 7th level, your senses multiply tenfold. Your Darkvision extends by 60 feet and you gain Blindsight up to 60 feet and a Tremorsense of 5 feet. On a successful Perception check (DC 18), you may sense invisible creatures."
-					]
-				},
-				{
-					"name": "Wings of the Bat",
-					"entries": [
-						"At 14th level, you sprout a pair of bat wings from your back, gaining a flying speed equal to your current speed."
-					]
-				}
-			]
-		}
-	]
+			{
+				"name": "Size",
+				"entries": [
+					"While naturally stronger than the human races there are no discernable differences in height. Your size is Medium."
+				]
+			},
+			{
+				"name": "Darkvision",
+				"entries": [
+					"You have superior vision in the dark. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of grey."
+				]
+			},
+			{
+				"name": "Intimidating Presence",
+				"entries": [
+					"You have proficiency in the Intimidation skill."
+				]
+			},
+			{
+				"name": "Keen Senses",
+				"entries": [
+					"You have proficiency in the Perception skill."
+				]
+			},
+			{
+				"name": "Natural Diplomat",
+				"entries": [
+					"You have advantage on all Charisma (Persuasion) checks."
+				]
+			},
+			{
+				"name": "Northern Resilience",
+				"entries": [
+					"You gain resistance to cold damage"
+				]
+			},
+			{
+				"name": "Languages",
+				"entries": [
+					"You can speak, read, and write Common and Elyan."
+				]
+			},
+			{
+				"name": "Piercing Screech",
+				"entries": [
+					"At 3rd level, you may attempt to stun your opponent with a voice attack as a bonus action. The target must make a Constitution save against your Spell Save DC and must be within a range of 30 feet.",
+					"Your number of uses is dependent on your constitution modifier, after which must be recovered by a short or long rest."
+				]
+			},
+			{
+				"name": "Echolocation",
+				"entries": [
+					"At 7th level, your senses multiply tenfold. Your Darkvision extends by 60 feet and you gain Blindsight up to 60 feet and a Tremorsense of 5 feet. On a successful Perception check (DC 18), you may sense invisible creatures."
+				]
+			},
+			{
+				"name": "Bat Wings",
+				"entries": [
+					"At 14th level, you sprout a pair of bat wings from your back, gaining a flying speed equal to your current speed."
+				]
+			}
+		]
+	}]
 }
