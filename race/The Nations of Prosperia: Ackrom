@@ -1,0 +1,119 @@
+{
+	"$schema": "../schema.json",
+	"_meta": {
+		"sources": [{
+			"json": "TRoP:NG",
+			"full": "Nation Grande",
+			"abbreviation": "TRoP",
+			"authors": [
+				"Freyjadour Suitoden"
+			],
+			"url": "https://homebrewery.naturalcrit.com/share/H1qr1Vbb4",
+			"version": "0.1"
+		}],
+		"dateAdded": 1545342498
+	},
+	"race": [{
+		"name": "Ackromian",
+		"source": "",
+		"ability": {
+			"wis": 2,
+			"con": 1
+		},
+		"size": "M",
+		"speed": {
+			"walk": 30
+		},
+		"traitTags": [
+			"Natural Armor",
+			"Damage Resistance"
+		],
+		"languageTags": [
+			"Ackromian",
+			"Elvish",
+			"Common"
+		],
+		"entries": [
+			"Ackromians possess the following racial traits:",
+			{
+				"name": "Age",
+				"entries": [
+					"Although the elven races reach physical maturity at about the same age as the human races, the elven understanding of Adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood⁠ and an adult name around the age of 100 and can live to over 1000 years old."
+				]
+			},
+			{
+				"name": "Alignment",
+				"entries": [
+					"Born into a hierarchy of death, Ackromians lean more towards Lawful alignments."
+				]
+			},
+			{
+				"name": "Darkvision",
+				"entries": [
+					"You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+				]
+			},
+			{
+				"name": "Size",
+				"entries": [
+					"Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium."
+				]
+			},
+			{
+				"name": "Keen Senses",
+				"entries": [
+					"You have proficiency in the Perception skill."
+				]
+			},
+			{
+				"name": "Fey Ancestry",
+				"entries": [
+					"You have advantage on saving throws against being charmed, and magic can't put you to sleep."
+				]
+			},
+			{
+				"name": "Trance",
+				"entries": [
+					"Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep."
+				]
+			},
+			{
+				"name": "Mask of the Wild",
+				"entries": [
+					"You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+				]
+			},
+			{
+				"name": "Blessing of Life",
+				"entries": [
+					"You know the cantrip Word of Radiance. Wisdom is your spellcasting ability for these spells."
+				]
+			},
+			{
+				"name": "Languages",
+				"entries": [
+					"You can speak, read, and write Celevharan, Elvish and Common. Celevharan shares many similarities with Elvish, with differences spawning only from distance from the other elven races."
+				]
+			},
+			{
+				"name": "Travii's Ward",
+				"entries": [
+					"You summon up from within you natural protection from Travii. For one minute, you have resistance against bludgeoning, piercing, and slashing damage dealt by non-magical weapon attacks. Additionally, the first time you take damage after you activate this ability you regain hit points equal to 1d8 + your charisma ability modifier."
+				]
+			},
+			{
+				"name": "Radiant Spirit",
+				"entries": [
+					"At 7th level, you gain the ability to stand against the legions of the dead as an aura of light surrounds you. For one minute, you gain a +1 bonus to AC and saving throws, and you gain resistance to Necrotic damage. Also, Undead creatures who are whithin 30 feet of you must make a Constitution saving throw (DC 10 + your Charisma modifier) or become Frightened until the end of your next turn. On a successful saving throw, they become immune to this effect unless used again.",
+					"You may use this ability a number of times equal to your Constitution modifier. You recover all uses of this ability upon completion of short or long rest."
+				]
+			},
+			{
+				"name": "",
+				"entries": [
+					""
+				]
+			}
+		]
+	}]
+}
