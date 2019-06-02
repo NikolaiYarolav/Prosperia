@@ -1,0 +1,126 @@
+{
+	"$schema": "../schema.json",
+	"_meta": {
+		"sources": [{
+			"json": "TRoP:NG",
+			"full": "Nation Grande",
+			"abbreviation": "TRoP",
+			"authors": [
+				"Freyjadour Suitoden"
+			],
+			"url": "https://homebrewery.naturalcrit.com/share/H1qr1Vbb4",
+			"version": "0.1"
+		}],
+		"dateAdded": 1545342498
+	},
+	"race": [{
+		"name": "Illian",
+		"source": "",
+		"ability": {
+			"wis": 2,
+			"dex": 1
+		},
+		"size": "M",
+		"speed": {
+			"walk": 30
+		},
+		"traitTags": [
+			"Natural Armor",
+			"Damage Resistance"
+		],
+		"languageTags": [
+			"Illian",
+			"Common"
+		],
+		"entries": [
+			"Illians possess the following racial traits:",
+			{
+				"name": "Age",
+				"entries": [
+					"Illians are born from mysterious means, with some being born from shadow and others molding a form around skeletal remains. This force stays for 1000 years before becoming inert and returning to the shadows from whence it came."
+				]
+			},
+			{
+				"name": "Alignment",
+				"entries": [
+					"Illians tend towards Neutral alignments, often wanting nothing but to further their god's strange goals."
+				]
+			},
+			{
+				"name": "Size",
+				"entries": [
+					"Most Illians form to be between 8-9 feet. There are exceptions, though, with some being shaped like an average human. Regardless of your position in that range, your size is Medium."
+				]
+			},
+			{
+				"name": "Darkvision",
+				"entries": [
+					"Illivyen society has formed superb darkvision from living underground in pitch black caves. You can see 120 feet in dim light as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of grey."
+				]
+			},
+			{
+				"name": "Sharp Sight",
+				"entries": [
+					"You have proficiency in the Perception skill and have advantage on Perception checks relying on sight."
+				]
+			},
+			{
+				"name": "Dual Nature",
+				"entries": [
+					"If an attack would reduce your hit points to below 0, roll a Constitution saving throw (DC 12). On a successful save, the damage goes through as normal. On a failed save, you regain all of your hit points and transform into a Yalvyn, attacking the closest creature, allied or otherwise. This form uses a Yalvyn's stats. This form lasts for 1d10 - your Constitution modifier turns (min. 1) or until you are reduced to 0 hit points. Upon reverting to your normal form you are knocked unconcious for 1d4 hours."
+				]
+			},
+			{
+				"name": "Madness Barrier",
+				"entries": [
+					"You are immune to Psychic damage."
+				]
+			},
+			{
+				"name": "Shadow Nature",
+				"entries": [
+					"You do not require air, food or drink."
+				]
+			},
+			{
+				"name": "Trance",
+				"entries": [
+					"Illians don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep."
+				]
+			},
+			{
+				"name": "Sunlight Weakness",
+				"entries": [
+					"While in sunlight, you have disadvantage on attack rolls, ability checks, and saving throws."
+				]
+			},
+			{
+				"name": "Languages",
+				"entries": [
+					"You can speak, read, and write Common and Illian."
+				]
+			},
+			{
+				"name": "Psionic Hold",
+				"entries": [
+					"At 3rd level, you may attempt to stun an enemy by sending your god's whispers directly into their head. The target creature must make a Wisdom saving throw (8 + your proficiency bonus + your Charisma modifier). On a failed save, they are stunned for 1d4 turns. On their turn, they may attempt to make the save again or fail the roll. On a successful save, the ability ends for that creature.",
+					"Your number of uses is dependent on your Charisma modifier, after which must be recovered by a short or long rest."
+				]
+			},
+			{
+				"name": "Shadow Step",
+				"entries": [
+					"At 7th level, you have earned the ability to teleport. You may teleport to an unoccupied square of your choosing that is within 60 feet of you. If you end up in a location that you cannot fit or is otherwise occupied, you take 1d10 Force damage and do not teleport.",
+					"Your number of uses is dependent on your Constitution modifier, after which must be recovered by a short or long rest."
+				]
+			},
+			{
+				"name": "Soul Merge",
+				"entries": [
+					"At 14th level, you can take control of your dual nature. As a bonus action, you may sprout up to 4 tendrils from your back. They last until you dismiss them as a bonus action. You may use your action to attempt to grapple a target with one of these tendrils. If you grapple a target they are restrained and have disadvantage on Strength checks and Strength saving throws. You can't use the same tendril on another target. Each tendril can be attacked (AC 17; 10 hit points; immunity to poison and psychic damage). Having a destroyed tendril deals no damage to you and you can extrude a replacement tendril on your next turn. A tendril can also be broken if a creature takes an action and succeeds on a DC 15 Strength check against it. While in dim light or darkness, you can take a Hide action as a reaction. You can't manifest your tendrils while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your tendrils might be destroyed when you manifest them.",
+					"You may use this feature once per long rest."
+				]
+			}
+		]
+	}]
+}
