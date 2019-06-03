@@ -94,7 +94,7 @@
 			{
 				"name": "Heavenly Strike",
 				"entries": [
-					"At 7th level, you can strike the ground around you with an angelic light as an action, causing a wave of energy to wash over your enemies. All enemies within 15 feet of you must make a Dexterity saving throw (DC 10). On a failed save, the target takes (2d6) radiant damage and is stunned and knocked prone. On a successful save, the target takes (1d4) radiant damage.",
+					"At 7th level, you can strike the ground around you with an angelic light as an action, causing a wave of energy to wash over your enemies. All enemies within 15 feet of you must make a Dexterity saving throw (DC 8 + your proficiency modifier + your charisma modifier). On a failed save, the target takes (2d8) radiant damage and is stunned and knocked prone. On a successful save, the target takes half damage.",
 					"Your number of uses is dependent on your Constitution modifier, after which must be recovered by a long rest."
 				]
 			},
