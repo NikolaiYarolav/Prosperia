@@ -103,7 +103,7 @@
 			{
 				"name": "Psionic Hold",
 				"entries": [
-					"At 3rd level, you may attempt to stun an enemy by sending your god's whispers directly into their head. The target creature must make a Wisdom saving throw (8 + your proficiency bonus + your Charisma modifier). On a failed save, they are stunned for 1d4 turns. On their turn, they may attempt to make the save again or fail the roll. On a successful save, the ability ends for that creature.",
+					"At 3rd level, you may attempt to stun an enemy by sending your god's whispers directly into their head. The target creature must make a Wisdom saving throw (8 + your proficiency bonus + your Charisma modifier). On a failed save, they are stunned for 1d4 turns. At the end of each of their turns, they may make a Wisdom saving throw. On a successful save, they are no longer stunned.",
 					"Your number of uses is dependent on your Charisma modifier, after which must be recovered by a short or long rest."
 				]
 			},
